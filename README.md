@@ -28,6 +28,8 @@ cp -r skills/brain-trust .agents/skills/
 
 Claude Code also reads `~/.claude/skills/`.
 
+Listed on skills.sh as [chunghoyun/my_brain_trust → brain-trust](https://www.skills.sh/chunghoyun/my_brain_trust/brain-trust), where `SKILL.md` renders in full alongside third-party security audits.
+
 ## The design principle
 
 The framework exists because of one finding from adversarial testing: **role separation fails at the format layer before it fails at the reasoning layer.**

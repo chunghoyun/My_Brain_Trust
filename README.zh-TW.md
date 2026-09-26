@@ -28,6 +28,8 @@ cp -r skills/brain-trust .agents/skills/
 
 Claude Code 也會讀取 `~/.claude/skills/`。
 
+skills.sh 上的頁面：[chunghoyun/my_brain_trust → brain-trust](https://www.skills.sh/chunghoyun/my_brain_trust/brain-trust)，有 `SKILL.md` 全文與第三方安全稽核結果。
+
 ## 設計原則
 
 這套框架的存在，來自對抗測試中的一個發現：**角色分離是先在格式層失敗，不是在推理層失敗。**

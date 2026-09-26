@@ -10,7 +10,13 @@ Works unmodified in Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot and othe
 
 ## Install
 
-Copy the `skills/brain-trust/` directory into your agent's skills directory:
+The quickest way, with the [`skills` CLI](https://skills.sh):
+
+```bash
+npx skills add chunghoyun/My_Brain_Trust
+```
+
+Or copy the `skills/brain-trust/` directory into your agent's skills directory by hand:
 
 ```bash
 # per-user

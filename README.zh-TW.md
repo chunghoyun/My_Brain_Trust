@@ -10,7 +10,13 @@
 
 ## 安裝
 
-把 `skills/brain-trust/` 資料夾複製到 agent 的 skills 目錄：
+最快的方式，用 [`skills` CLI](https://skills.sh)：
+
+```bash
+npx skills add chunghoyun/My_Brain_Trust
+```
+
+或手動把 `skills/brain-trust/` 資料夾複製到 agent 的 skills 目錄：
 
 ```bash
 # 個人使用
